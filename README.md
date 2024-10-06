@@ -3,7 +3,7 @@ Generating synthetic Amazon reviews from a sample dataset
 
 # All the Trials
 
-Trial 1 - iInstruct_model_dc.ipynb - base model and fine-tuned model
+Trial 1 - iInstruct_model_dc.ipynb - base Instruct model and fine-tuned Instruct model
 
 Trial 2 - gretel.ipynb
 
