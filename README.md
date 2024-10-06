@@ -11,7 +11,7 @@ Trial 3 - self_rag1.ipynb - Self-RAG model,not enough compute.
 
 Trial 4 - ragwithhf.ipynb - RAG with GPT and RAG with Instruct models
 
-Trial 5 - geminiRAG(2).ipynb 
+Trial 5 - geminiRAG(2).ipynb - RAG with Gemini
 ## WORKS!!
 
 # SyntheticData
